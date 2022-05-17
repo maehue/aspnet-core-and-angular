@@ -353,3 +353,4 @@ MigrationBackup/
 *.db-shm
 *.db-wal
 appsettings.json
+.DS_Store
